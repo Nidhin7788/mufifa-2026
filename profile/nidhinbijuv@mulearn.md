@@ -5,12 +5,7 @@
 
 I am Nidhin Biju V, a B.Tech Electronics and Communication Engineering (ECE) graduate with a deep passion for graphic design and visual storytelling. What brought me to μFIFA is the exciting opportunity to kickstart my journey with μLearn, dive into its vast ecosystem of learning, and connect with a vibrant community of like-minded peers who share a drive for innovation.
 
-My background in ECE gives me a strong technical foundation, but my true excitement lies where technology meets creativity. While I am just starting out in this specific arena, I am incredibly eager to explore how my analytical skills can merge with my design interests to create impactful digital experiences. On the pitch, I am here to prove my adaptability, learn from the best, and evolve into a versatile creator capable of blending logic with art. I’m ready to collaborate, grow, and make my mark in this community!
----
-
 ## ⚽ FIFA World Cup Corner
-
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
 
 #### My Nation & Why:
 
@@ -20,7 +15,7 @@ I have been a die-hard Messi fan since my childhood, watching him redefine what 
 
 #### Supporting Team in the Real World Cup 2026:
 
-There is absolutely no split loyalty for me—I am backing Argentina in the actual FIFA World Cup 2026, keeping it exactly the same as my μFIFA Nation.
+There is absolutely no split loyalty for me,I am backing Argentina in the actual FIFA World Cup 2026, keeping it exactly the same as my μFIFA Nation.
 
 My loyalty to Argentina isn't just for a single tournament or a digital simulation; it's a lifelong commitment born from my love for Lionel Messi. After witnessing the sheer magic of the 2022 victory, my support for the Albiceleste is completely unshakable. Whether they are competing on the physical pitches across North America or under my command in μFIFA, my heart stays with the same team. I’m standing by Argentina through every single match, hoping to see them carry that legendary momentum all the way to another world title!
 
